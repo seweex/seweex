@@ -26,5 +26,5 @@ Currently I'm preparing for my school exam but after that I'm going to go deeper
 
 ### ✉️ Contact me
 
-- **Telegram:** @seweeex
+- **Telegram:** [@seweeex](https://t.me/seweeex)
 - **Email:** seweex@gmail.com
