@@ -6,13 +6,14 @@ Currently I'm preparing for my school exam but after that I'm going to go deeper
 
 ### ⚒️ Here is Tech Stack
 
-- **Languages:** C, С++
+- **Languages:** C, С++, Python
 - **API:** OpenGL, Vulkan
 - **Tools:** CMake, Git, Ninja, GTest, GLSL
 
 ### 💼 My Projects
 
 - **[Game of Life](https://github.com/seweex/game-of-life)**: My first serious project in graphic
+- **[Shader Link](https://github.com/seweex/shader-link)**: A simple python script to simplify GLSL shader compilation
 
 ### 📝 What I'm working at
 
