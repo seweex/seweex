@@ -2,13 +2,13 @@
 ## 👋 Hi! Im Eugene!
 
 I'm a 17 y.o. C++ programming fan. \
-Currently I'm preparing for my school exam but after that I'm going to go deeper into the graphics and low-level programming.
+Currently, I'm learn and practice graphics and low-level programming.
 
 ### ⚒️ Here is Tech Stack
 
 - **Languages:** C, С++, Python
-- **API:** OpenGL, Vulkan
-- **Tools:** CMake, Git, Ninja, GTest, GLSL, Conan
+- **API & Libs:** OpenGL, Vulkan, SDL, Boost 
+- **Tools:** CMake, Git, Ninja, GTest, GLSLC, Conan
 
 ### 💼 My Projects
 
@@ -18,7 +18,6 @@ Currently I'm preparing for my school exam but after that I'm going to go deeper
 
 ### 📝 What I'm working at
 
-- **Shader compiler**: A script for automatic shaders compilations end export to constexpr C++ arrays
 - **Render Graph for Vulkan**: The Heart of graphics engine on modern C++20 using Vulkan API
 - **Bindless Descriptors and Dynamic Renderning**: Studying more graphics features
 
